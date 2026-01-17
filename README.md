@@ -243,3 +243,6 @@ Google Keep などのメモアプリでは、商品名や店名を自分で入�
 - 情報精度より“使える整理体験”を重視
 
 ---
+
+## 画面遷移図
+Figma:https://www.figma.com/design/zNHUaqmV9yRryXeM0dCFQG/%E3%80%90%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C%E3%80%91%E3%81%8A%E3%81%8B%E3%81%84%E3%82%82%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA?node-id=0-1&t=Xn5B3n1VoZYMWClD-1
