@@ -248,4 +248,4 @@ Google Keep などのメモアプリでは、商品名や店名を自分で入�
 Figma:https://www.figma.com/design/zNHUaqmV9yRryXeM0dCFQG/%E3%80%90%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C%E3%80%91%E3%81%8A%E3%81%8B%E3%81%84%E3%82%82%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA?node-id=0-1&t=dSx4T2m4MF7GCzjl-1
 
 ## E-R図
-[![Image from Gyazo](https://i.gyazo.com/3e8c1d2b1983a46fecf141d66b201905.png)](https://gyazo.com/3e8c1d2b1983a46fecf141d66b201905)
+[![Image from Gyazo](https://i.gyazo.com/efe16c1c943449fb428a269b8dffeecd.png)](https://gyazo.com/efe16c1c943449fb428a269b8dffeecd)
